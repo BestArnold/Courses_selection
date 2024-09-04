@@ -1,2 +1,2 @@
-# Courses_selection
+# 学生选课系统
 基于Qt6实现的学生选课系统
